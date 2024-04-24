@@ -2,6 +2,6 @@
 
 import uuid
 
-your_uuid = uuid()
+uuid = (uuid.uuid1())
 
-print(your_uuid)
+print(uuid)
